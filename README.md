@@ -28,7 +28,7 @@ The empirical framework is aligned with studies on returns to education in Indon
 - `outputs/` : Tables or figures generated from the analysis (to be added)
 
 ## Project Status
-This repository is a **work in progress**.  
+This repository is already has a **report**.  
 The full estimation, robustness checks, and interpretation will be developed incrementally.
 
 ## Notes
